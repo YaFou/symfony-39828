@@ -1,0 +1,12 @@
+{
+    "name": "yafou/symfony-xliff-lint-github-demo",
+    "require": {
+        "symfony/symfony": "dev-github-xliff-lint-command as 5.x-dev"
+    },
+    "repositories": {
+        "yafou/symfony": {
+            "type": "vcs",
+            "url": "https://github.com/YaFou/symfony.git"
+        }
+    }
+}
